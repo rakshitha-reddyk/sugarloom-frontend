@@ -1,20 +1,20 @@
-🍰 SugarLoom – Artisan Cakes & Desserts (Frontend)
+🍰 SugarLoom - Artisan Cakes & Desserts (Frontend)
 
 SugarLoom is a modern frontend website for an artisan bakery brand offering cupcakes, celebration cakes, wedding cakes, tasting sessions, and custom orders.
 The project focuses on clean UI, smooth layout flow, and well-structured React components.
 
-✨ About the Project
+About the Project
 
-This project recreates the experience of browsing a premium bakery website — from discovering products to learning how the service works.
+This project recreates the experience of browsing a premium bakery website - from discovering products to learning how the service works.
 It is built entirely on the frontend, with emphasis on design consistency, responsiveness, and readable code structure.
 
-🖥️ Preview
+Preview
 
 Run locally at:
 
 http://localhost:3000
 
-🔹 Features
+Features:
 
 Hero section with brand messaging and call-to-action buttons
 
@@ -34,7 +34,7 @@ Custom 404 (Not Found) page
 
 Fully responsive layout
 
-🛠️ Tech Stack
+Tech Stack:
 
 React (JavaScript)
 
@@ -44,7 +44,7 @@ CRACO (Create React App configuration)
 
 React Helmet (for page title and meta tags)
 
-📁 Folder Structure
+Folder Structure:
 sugarloom-frontend/
 │
 ├── public/
@@ -73,7 +73,7 @@ sugarloom-frontend/
 ├── package.json
 └── package-lock.json
 
-🚀 How to Run the Project
+How to Run the Project:
 1. Clone the repository
 git clone https://github.com/rakshitha-reddyk/sugarloom-frontend.git
 cd sugarloom-frontend
@@ -87,7 +87,7 @@ npm start
 
 The site will open automatically in your browser.
 
-📌 Notes
+Notes:
 
 This project focuses only on frontend UI and layout
 
