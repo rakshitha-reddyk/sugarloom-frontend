@@ -1,0 +1,77 @@
+.home-container1 {
+  width: 100%;
+  display: block;
+  min-height: 100vh;
+}
+ 
+.home-thq-gallery-parallax-bg-elm1 {
+  background-image: url('https://images.pexels.com/photos/2563498/pexels-photo-2563498.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm2 {
+  background-image: url('https://images.pexels.com/photos/20677473/pexels-photo-20677473.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm3 {
+  background-image: url('https://images.pexels.com/photos/34321382/pexels-photo-34321382.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm4 {
+  background-image: url('https://images.pexels.com/photos/34802563/pexels-photo-34802563.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm5 {
+  background-image: url('https://images.pexels.com/photos/33105601/pexels-photo-33105601.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm6 {
+  background-image: url('https://images.pexels.com/photos/6990073/pexels-photo-6990073.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm7 {
+  background-image: url('https://images.pexels.com/photos/34298832/pexels-photo-34298832.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-thq-gallery-parallax-bg-elm8 {
+  background-image: url('https://images.pexels.com/photos/1793037/pexels-photo-1793037.jpeg?auto=compress&cs=tinysrgb&w=1500');
+}
+ 
+.home-container2 {
+  display: none;
+}
+ 
+.home-container3 {
+  display: contents;
+}
+ 
+.home-container4 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.home-icon242 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.home-text63 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}

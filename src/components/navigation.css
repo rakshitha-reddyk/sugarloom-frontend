@@ -1,0 +1,33 @@
+.navigation-container1 {
+  display: contents;
+}
+ 
+.navigation-thq-navigation-cart-count-elm {
+  top: 0;
+  color: var(--color-on-accent);
+  right: 0;
+  padding: 2px 6px;
+  position: absolute;
+  font-size: var(--font-size-xs);
+  min-width: 18px;
+  background: var(--color-accent);
+  text-align: center;
+  font-weight: var(--font-weight-medium);
+  border-radius: var(--border-radius-full);
+}
+ 
+.navigation-container2 {
+  display: none;
+}
+ 
+.navigation-container3 {
+  display: contents;
+}
+ 
+.navigation-container4 {
+  display: none;
+}
+ 
+.navigation-container5 {
+  display: contents;
+}

@@ -1,0 +1,31 @@
+.footer-container1 {
+  display: contents;
+}
+ 
+.footer-thq-footer-copyright-text-elm {
+  color: var(--color-on-surface-secondary);
+  font-size: var(--font-size-xs);
+}
+ 
+.footer-thq-footer-tagline-text-elm1 {
+  color: var(--color-on-surface-secondary);
+  font-size: var(--font-size-xs);
+}
+ 
+.footer-thq-footer-heart-icon-elm {
+  color: var(--color-accent);
+  animation: heartbeat 2s ease-in-out infinite;
+}
+ 
+.footer-thq-footer-tagline-text-elm2 {
+  color: var(--color-on-surface-secondary);
+  font-size: var(--font-size-xs);
+}
+ 
+.footer-container2 {
+  display: none;
+}
+ 
+.footer-container3 {
+  display: contents;
+}
